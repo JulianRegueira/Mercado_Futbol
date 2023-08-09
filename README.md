@@ -19,6 +19,7 @@ El dashboard te permitirá ver con facilidad las estadisticas del jugador que es
 ## Estructura del Repositorio
 - **Dashboard**: Carpeta que contiene el archivo construido con Power BI
 - **Datasets**: Datasets que se utilizaron para realizar el proyecto
+- **Documentación**: Sobre el final del archivo, se detalla la documentación con los pasos realizados para llevar a cabo el proyecto,  las paginas anteriores eran requisitos de pre-entregas.
 - **README.md**: Este archivo que proporciona una descripción general del proyecto y sus resultados.
 
 ## Herramientas utilizadas en el Proyecto
