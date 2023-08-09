@@ -12,7 +12,7 @@ El objetivo del dashboard es facilitar al usuario la toma de decisiones para la 
 
 Podrán ver su funcionamiento en el siguiente enlace:
 
-[Click ACA](#)
+[Click ACA](https://youtu.be/iil8OTMQiQA)
 
 El dashboard te permitirá ver con facilidad las estadisticas del jugador que estas buscando.
 
